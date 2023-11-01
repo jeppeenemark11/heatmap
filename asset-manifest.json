@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scatterplot/static/css/main.22591709.css",
-    "main.js": "/scatterplot/static/js/main.ea38b690.js",
-    "static/js/787.e56ef748.chunk.js": "/scatterplot/static/js/787.e56ef748.chunk.js",
-    "index.html": "/scatterplot/index.html",
-    "main.22591709.css.map": "/scatterplot/static/css/main.22591709.css.map",
-    "main.ea38b690.js.map": "/scatterplot/static/js/main.ea38b690.js.map",
-    "787.e56ef748.chunk.js.map": "/scatterplot/static/js/787.e56ef748.chunk.js.map"
+    "main.css": "/heatmap/static/css/main.22591709.css",
+    "main.js": "/heatmap/static/js/main.cee3b533.js",
+    "static/js/787.e56ef748.chunk.js": "/heatmap/static/js/787.e56ef748.chunk.js",
+    "index.html": "/heatmap/index.html",
+    "main.22591709.css.map": "/heatmap/static/css/main.22591709.css.map",
+    "main.cee3b533.js.map": "/heatmap/static/js/main.cee3b533.js.map",
+    "787.e56ef748.chunk.js.map": "/heatmap/static/js/787.e56ef748.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22591709.css",
-    "static/js/main.ea38b690.js"
+    "static/js/main.cee3b533.js"
   ]
 }
